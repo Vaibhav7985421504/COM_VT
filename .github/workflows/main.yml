@@ -51,4 +51,4 @@ jobs:
  
         shell: powershell
  
-        run: C:/COM/Python/RunAllTests.py
+        run: python C:/COM/Python/RunAllTests.py
